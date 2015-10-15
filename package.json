@@ -1,0 +1,39 @@
+{
+  "name"        : "test",
+  "version"     : "1.0.0",
+  "homepage"    : "http://www.dredgee.com/",
+  "author"      : "Fredo. <info@priologic.com> (http://www.dredgee.com/)",
+  "description" : "test chat WEBRTC",
+  "contributors": [
+    "Fredo <fredodefrance@gmail.com>"
+  ],
+
+  "keywords": [
+    "test"
+  ],
+
+  "repository": {
+    "type"      : "git",
+    "url"       : "https://github.com/dredgee/test/test.git"
+  },
+
+  "bugs": {
+    "url"       : "https://www.dredgee.com"
+  },
+
+  "main"        : "index",
+
+  "dependencies" : {
+    "async"     : "0.2.x",
+    "colors"    : "*",
+    "underscore": "1.5.x"
+  },
+
+  "analyze"     : false,
+
+  "license"     : "BSD2",
+
+  "engines": {
+    "node"      : ">=0.8"
+  }
+}
